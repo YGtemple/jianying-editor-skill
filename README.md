@@ -1,6 +1,6 @@
 # jianying-editor-skill · 剪映/CapCut 终极自动化剪辑 Skill（v2.0.0）
 
-> 一句话简介：桌面 UI 自动化 + 草稿 JSON 直接编辑双引擎——花字/关键帧/蒙版/转场/TTS/录屏/Web动效/批量无头导出/智能剪口播全流程规则库。
+> 一句话简介：剪映/CapCut 自动化剪辑 Skill：UI+草稿 JSON 双引擎
 
 ## 一、项目概述与定位
 
